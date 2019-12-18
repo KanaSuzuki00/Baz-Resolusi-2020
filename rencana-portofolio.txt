@@ -5,5 +5,10 @@ Rencana Isi Portfolio
   => Daftar Materi
   => Source Code
 - Aplikasi Flutter
+  => Aplikasi Manajemen Keuangan
+  => Konek ke Database
 - Website CRUD Laravel
+  => Website Pariwisata
 - Desain UI UX Mobile Apps
+  => Flat Design
+  => Material Design
