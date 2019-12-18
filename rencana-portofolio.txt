@@ -5,7 +5,7 @@ Rencana Isi Portfolio
   => Daftar Materi
   => Source Code
 - Aplikasi Flutter
-  => Aplikasi Manajemen Keuangan
+  => Aplikasi sederhana untuk RT dan RW
   => Konek ke Database
 - Website CRUD Laravel
   => Website Pariwisata
