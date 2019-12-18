@@ -6,7 +6,9 @@ Rencana Isi Portfolio
   => Source Code
 - Aplikasi Flutter
   => Aplikasi sederhana untuk RT dan RW
+  => Konek ke Database
 - Website CRUD Laravel
-  => Website Administrasi Organisasi
+  => Website Pariwisata
 - Desain UI UX Mobile Apps
+  => Flat Design
   => Material Design
