@@ -1,0 +1,7 @@
+BAZ RESOLUSI
+
+1. Membuat media pembelajaran menggunakan Adobe Animate
+2. Membuat aplikasi sederhana dengan Flutter
+3. Membuat website CRUD dengan Laravel
+4. Membuat website untuk portofolio
+5. Belajar Git dan Github
